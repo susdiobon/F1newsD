@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+}
+
+.titolo{
+    background-color: #fa4b4b;
+}
+
+.titolonotizie{
+    background-color: #fa4b4b;
+}
+
+
+
+
+.descrizione2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.descrizione1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.notizie{
+    color: #fa4b4b;
+}
+
+
+
+.aggiornamenti a{
+    color: #f70707;
+    text-decoration: none;
+    padding: 15px;
+    border: 1px black;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+    color: #000000;
+    background-color: #fa4b4b;
+}
+
+.foto a{
+    color: #000000;
+    text-decoration: none;
+    padding: 15px;
+    border: 1px black;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+    color: #000000;
+    background-color: #fa4b4b;
+}
+
+
+
+.aggiornamenti a:hover{ 
+    color: #000000;
+    font-size: 30px;
+}
+
+.foto a:hover{
+    color: #000000;
+    font-size: 30px;
+}
+
+.g26g7g2022{
+    background-color: 
+    #4d4d4d
+    ;
+    width: 180px;
+    border-radius: 5px;
+    
+    
+     
+}
